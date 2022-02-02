@@ -1,24 +1,26 @@
-# README
+※合同トレーニングアプリ作成中
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+【使用技術】
+※使用予定
 
-Things you may want to cover:
+バックエンド
+・Ruby(2.7.0)
+・Rails(6.1.4.4)
 
-* Ruby version
+フロントエンド
+・HTML/CSS
+・Javascript
+・React.js
 
-* System dependencies
+開発環境、インフラ
+・Docker/docker-compose
+・MySQL(8.0.23)
+・CircleCI
+・PUMA
+・Nginx
+・AWS(VPC、ACM、Route53、EC2、RDS、S3、IAM)
+・Terraform
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+テスト、静的コード解析
+・Rspec
+・Rubocop
